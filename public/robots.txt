@@ -1,0 +1,7 @@
+# Robots.txt for Neuronix AI
+User-agent: *
+Allow: /
+
+# Sitemap configuration
+# Note: Replace with your custom production domain if different from default
+Sitemap: https://neuronix.ai/sitemap.xml
